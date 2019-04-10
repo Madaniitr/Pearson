@@ -1,0 +1,663 @@
+.nav-cmc{
+	background-color: #ffffff !important;
+
+}
+nav ul li a{
+	color: black !important;
+}
+.image-cmc-1{
+	height: 450px;
+	background-image: url('../img/home.jpg');
+	background-size: cover;
+}
+.image-cmc-m-1{
+	height: 150px;
+	background-image: url('../img/home.jpg');
+	background-size: cover;
+}
+.offer-cmc-2{
+	background-image: url('../newlogo/btec-1-b.svg');
+	height: 100px;
+	background-position: center;
+	background-size: contain;
+	background-color: white;
+}
+.offer-cmc-3{
+	background-image: url('../newlogo/edexcel-1-b.svg');
+	height: 100px;
+	background-position: center;
+	background-size: contain;
+	background-color: white;
+}
+.offer-cmc-4{
+	background-image: url('../newlogo/3.3.svg');
+	height: 100px;
+	background-position: center;
+	background-size: contain;
+	background-color: white;
+
+}
+.offer-cmc-5{
+	background-image: url('../logos/5.png');
+	height: 100px;
+	background-position: center;
+	background-size: cover;
+}
+.offer-cmc-1{
+	background-image: url('../logos/1.png');
+	height: 100px;
+	background-position: center;
+	background-size: cover;
+}
+.offer-cmc-6{
+	background-image: url('../logos/6.png');
+	height: 100px;
+	background-position: center;
+	background-size: cover;
+}
+.offer-cmc-7{
+	background-image: url('../logos/7.png');
+	height: 100px;
+	background-position: center;
+	background-size: cover;
+}
+.offer-cmc-8{
+	background-image: url('../newimg/Untitled-1-06.png');
+	height: 100px;
+	background-position: center;
+	background-size: cover;
+}
+.offer-cmc-9{
+	background-image: url('../newimg/etnias-b.png');
+	height: 100px;
+	background-position: center;
+	background-size: cover;
+}
+.offer-cmc-10{
+	background-image: url('../newlogo/10.svg');
+	height: 100px;
+	background-position: center;
+	background-size: contain;
+	background-color: white;
+}
+.offer-cmc-11{
+	background-image: url('../newlogo/11.11.svg');
+	height: 100px;
+	background-position: center;
+		background-size: contain;
+	background-color: white;
+}
+.offer-cmc-12{
+	background-image: url('../newimg/pcb.jpg');
+	height: 100px;
+	background-position: center;
+		background-size: contain;
+	background-color: white;
+}
+.offer-cmc-13{
+	background-image: url('../newlogo/13.13.svg');
+	height: 100px;
+	background-position: center;
+	background-size: contain;
+	background-color: white;
+}
+.offer-cmc-14{
+	background-image: url('../newlogo/14.14.svg');
+	height: 100px;
+	background-position: center;
+		background-size: contain;
+	background-color: white;
+}
+.offer-cmc-15{
+	background-image: url('../newlogo/15.15.svg');
+	height: 100px;
+	background-position: center;
+		background-size: contain;
+	background-color: white;
+}
+.offer-cmc-16{
+	background-image: url('../newimg/mp-b.png');
+	height: 100px;
+	background-position: center;
+	background-size: cover;
+}
+.offer-cmc-17{
+	background-image: url('../logos/17.png');
+	height: 100px;
+	background-position: center;
+	background-size: cover;
+}
+.offer-cmc-18{
+	background-image: url('../logos/18.png');
+	height: 100px;
+	background-position: center;
+	background-size: cover;
+}
+.offer-cmc-19{
+	background-image: url('../logos/19.png');
+	height: 100px;
+	background-position: center;
+	background-size: cover;
+}
+.offer-cmc-20{
+	background-image: url('../new/english_b&w.png');
+	height: 100px;
+	background-position: center;
+	background-size: cover;
+}
+
+
+.offer-cmc-1:hover{
+	background-image: url('../logos/1.1.png');
+	background-position: center;
+	background-size: cover;
+}
+.offer-cmc-2:hover{
+	background-image: url('../newlogo/btec-1-c.svg');
+	background-position: center;
+	background-size: contain;
+	background-color: white;
+}
+.offer-cmc-3:hover{
+	background-image: url('../newlogo/edexcel-1-c.svg');
+	background-position: center;
+	background-size: contain;
+	background-color: white;
+}
+.offer-cmc-4:hover{
+	background-image: url('../newlogo/3.svg');
+	background-position: center;
+	background-size: contain;
+	background-color: white;
+}
+.offer-cmc-5:hover{
+	background-image: url('../logos/5.5.png');
+	background-position: center;
+	background-size: cover;
+}
+.offer-cmc-6:hover{
+	background-image: url('../logos/6.6.png');
+	background-position: center;
+	background-size: cover;
+}
+.offer-cmc-7:hover{
+	background-image: url('../logos/7.7.png');
+	background-position: center;
+	background-size: cover;
+}
+.offer-cmc-8:hover{
+	background-image: url('../newimg/Untitled-1-05.png');
+	background-position: center;
+	background-size: cover;
+}
+.offer-cmc-9:hover{
+	background-image: url('../newimg/e-c.png');
+	background-position: center;
+	background-size: cover;
+}
+.offer-cmc-10:hover{
+	background-image: url('../newlogo/10.10.svg');
+	background-position: center;
+	background-size: contain;
+	background-color: white;
+}
+.offer-cmc-11:hover{
+	background-image: url('../newlogo/11.svg');
+	background-position: center;
+		background-size: contain;
+	background-color: white;
+}
+.offer-cmc-12:hover{
+	background-image: url('../newimg/pcc.png');
+	background-position: center;
+	background-size: cover;
+}
+.offer-cmc-13:hover{
+	background-image: url('../newlogo/13.svg');
+	background-position: center;
+	background-size: contain;
+	background-color: white;
+}
+.offer-cmc-14:hover{
+	background-image: url('../newlogo/14.svg');
+	background-position: center;
+		background-size: contain;
+	background-color: white;
+}
+.offer-cmc-15:hover{
+	background-image: url('../newlogo/15.svg');
+	background-position: center;
+		background-size: contain;
+	background-color: white;
+}
+.offer-cmc-16:hover{
+	background-image: url('../newimg/mp-c.png');
+	background-position: center;
+	background-size: cover;
+}
+.offer-cmc-17:hover{
+	background-image: url('../logos/17.17.png');
+	background-position: center;
+	background-size: cover;
+}
+.offer-cmc-18:hover{
+	background-image: url('../logos/18.18.png');
+	background-position: center;
+	background-size: cover;
+}
+.offer-cmc-19:hover{
+	background-image: url('../logos/19.19.png');
+	background-position: center;
+	background-size: cover;
+}
+.offer-cmc-20:hover{
+	background-image: url('../new/english_color.png');
+	background-position: center;
+	background-size: cover;
+}
+/*for mob */
+.offer-cmc-2-m{
+	background-image: url('../logos/2.png');
+	height: 100px;
+	background-position: center;
+	background-size: cover;
+}
+.offer-cmc-3-m{
+	background-image: url('../logos/3.png');
+	height: 100px;
+	background-position: center;
+	background-size: cover;
+}
+.offer-cmc-4-m{
+	background-image: url('../logos/4.png');
+	height: 100px;
+	background-position: center;
+	background-size: cover;
+
+}
+.offer-cmc-5-m{
+	background-image: url('../logos/5.png');
+	height: 100px;
+	background-position: center;
+	background-size: cover;
+}
+.offer-cmc-1-m{
+	background-image: url('../logos/1.png');
+	height: 100px;
+	background-position: center;
+	background-size: cover;
+}
+.offer-cmc-6-m{
+	background-image: url('../logos/6.png');
+	height: 100px;
+	background-position: center;
+	background-size: cover;
+}
+.offer-cmc-7-m{
+	background-image: url('../logos/7.png');
+	height: 100px;
+	background-position: center;
+	background-size: cover;
+}
+.offer-cmc-8-m{
+	background-image: url('../newimg/Untitled-1-06.png');
+	height: 100px;
+	background-position: center;
+	background-size: cover;
+}
+.offer-cmc-9-m{
+	background-image: url('../newimg/etnias-b.png');
+	height: 100px;
+	background-position: center;
+	background-size: cover;
+}
+.offer-cmc-10-m{
+	background-image: url('../logos/10.png');
+	height: 100px;
+	background-position: center;
+	background-size: cover;
+}
+.offer-cmc-11-m{
+	background-image: url('../logos/11.png');
+	height: 100px;
+	background-position: center;
+	background-size: cover;
+}
+.offer-cmc-12-m{
+	background-image: url('../newimg/pcb.jpg');
+	height: 100px;
+	background-position: center;
+	background-size: cover;
+}
+.offer-cmc-13-m{
+	background-image: url('../logos/13.png');
+	height: 100px;
+	background-position: center;
+	background-size: cover;
+}
+.offer-cmc-14-m{
+	background-image: url('../logos/14.png');
+	height: 100px;
+	background-position: center;
+	background-size: cover;
+}
+.offer-cmc-15-m{
+	background-image: url('../logos/15.png');
+	height: 100px;
+	background-position: center;
+	background-size: cover;
+}
+.offer-cmc-16-m{
+	background-image: url('../newimg/mp-b.png');
+	height: 100px;
+	background-position: center;
+	background-size: cover;
+}
+.offer-cmc-17-m{
+	background-image: url('../logos/17.png');
+	height: 100px;
+	background-position: center;
+	background-size: cover;
+}
+.offer-cmc-18-m{
+	background-image: url('../logos/18.png');
+	height: 100px;
+	background-position: center;
+	background-size: cover;
+}
+.offer-cmc-19-m{
+	background-image: url('../logos/19.png');
+	height: 100px;
+	background-position: center;
+	background-size: cover;
+}
+.offer-cmc-20-m{
+	background-image: url('../new/english_b&w.png');
+	height: 100px;
+	background-position: center;
+	background-size: cover;
+}
+
+
+.offer-cmc-1-m:hover{
+	background-image: url('../logos/1.1.png');
+	background-position: center;
+	background-size: cover;
+}
+.offer-cmc-2-m:hover{
+	background-image: url('../logos/2.2.png');
+	background-position: center;
+	background-size: cover;
+}
+.offer-cmc-3-m:hover{
+	background-image: url('../logos/3.3.png');
+	background-position: center;
+	background-size: cover;
+}
+.offer-cmc-4-m:hover{
+	background-image: url('../logos/4.4.png');
+	background-position: center;
+	background-size: cover;
+}
+.offer-cmc-5-m:hover{
+	background-image: url('../logos/5.5.png');
+	background-position: center;
+	background-size: cover;
+}
+.offer-cmc-6-m:hover{
+	background-image: url('../logos/6.6.png');
+	background-position: center;
+	background-size: cover;
+}
+.offer-cmc-7-m:hover{
+	background-image: url('../logos/7.7.png');
+	background-position: center;
+	background-size: cover;
+}
+.offer-cmc-8-m:hover{
+	background-image: url('../newimg/Untitled-1-05.png');
+	background-position: center;
+	background-size: cover;
+}
+.offer-cmc-9-m:hover{
+	background-image: url('../newimg/e-c.png');
+	background-position: center;
+	background-size: cover;
+}
+.offer-cmc-10-m:hover{
+	background-image: url('../logos/10.10.png');
+	background-position: center;
+	background-size: cover;
+}
+.offer-cmc-11-m:hover{
+	background-image: url('../logos/11.11.png');
+	background-position: center;
+	background-size: cover;
+}
+.offer-cmc-12-m:hover{
+	background-image: url('../newimg/pcc.png');
+	background-position: center;
+	background-size: cover;
+}
+.offer-cmc-13-m:hover{
+	background-image: url('../logos/13.13.png');
+	background-position: center;
+	background-size: cover;
+}
+.offer-cmc-14-m:hover{
+	background-image: url('../logos/14.14.png');
+	background-position: center;
+	background-size: cover;
+}
+.offer-cmc-15-m-m:hover{
+	background-image: url('../logos/15.15.png');
+	background-position: center;
+	background-size: cover;
+}
+.offer-cmc-16-m:hover{
+	background-image: url('../newimg/mp-c.png');
+	background-position: center;
+	background-size: cover;
+}
+.offer-cmc-17-m:hover{
+	background-image: url('../logos/17.17.png');
+	background-position: center;
+	background-size: cover;
+}
+.offer-cmc-18-m:hover{
+	background-image: url('../logos/18.18.png');
+	background-position: center;
+	background-size: cover;
+}
+.offer-cmc-19-m:hover{
+	background-image: url('../logos/19.19.png');
+	background-position: center;
+	background-size: cover;
+}
+.offer-cmc-20-m:hover{
+	background-image: url('../new/english_color.png');
+	background-position: center;
+	background-size: cover;
+}
+
+/*for mob ends */
+
+/*
+.offer-cmc-1-m:hover{
+	background-image: url('../logos/1.1.png');
+	background-position: center;
+	
+}
+.offer-cmc-2-m:hover{
+	background-image: url('../logos/2.2.png');
+	background-position: center;
+	
+}
+.offer-cmc-3-m:hover{
+	background-image: url('../logos/3.3.png');
+	background-position: center;
+
+}
+.offer-cmc-4-m:hover{
+	background-image: url('../logos/4.4.png');
+	background-position: center;
+	
+}
+.offer-cmc-5-m:hover{
+	background-image: url('../logos/5.5.png');
+	background-position: center;
+
+}
+.offer-cmc-6-m:hover{
+	background-image: url('../logos/6.6.png');
+	background-position: center;
+
+}
+.offer-cmc-7-m:hover{
+	background-image: url('../logos/7.7.png');
+	background-position: center;
+
+}
+.offer-cmc-8-m:hover{
+	background-image: url('../newimg/Untitled-1-05.png');
+	background-position: center;
+	background-size: cover;
+}
+.offer-cmc-9-m:hover{
+	background-image: url('../newimg/e-c.png');
+	background-position: center;
+
+}
+.offer-cmc-10-m:hover{
+	background-image: url('../newlogo/10.10.svg');
+	background-position: center;
+	background-size: contain;
+	background-color: white;
+
+
+}
+.offer-cmc-11-m:hover{
+	background-image: url('../logos/11.11.png');
+	background-position: center;
+
+}
+.offer-cmc-12-m:hover{
+	background-image: url('../logos/12.12.png');
+	background-position: center;
+
+}
+.offer-cmc-13-m:hover{
+	background-image: url('../logos/13.13.png');
+	background-position: center;
+
+}
+.offer-cmc-14-m:hover{
+	background-image: url('../logos/14.14.png');
+	background-position: center;
+	
+}
+.offer-cmc-15-m:hover{
+	background-image: url('../logos/15.15.png');
+	background-position: center;
+
+}
+.offer-cmc-16-m:hover{
+	background-image: url('../newimg/mp-c.png');
+	background-position: center;
+	
+}
+.offer-cmc-17-m:hover{
+	background-image: url('../logos/17.17.png');
+	background-position: center;
+	
+}
+.offer-cmc-18-m:hover{
+	background-image: url('../logos/18.18.png');
+	background-position: center;
+	
+}
+.offer-cmc-19-m:hover{
+	background-image: url('../logos/19.19.png');
+	background-position: center;
+	
+}
+.offer-cmc-20-m:hover{
+	background-image: url('../new/english_color.png');
+	background-position: center;
+	
+}*/
+
+
+
+
+
+.contact-cmc{
+	height: 65px;
+	background-color: #003057;
+}
+.contact-cmc-mob{
+	height: 65px;
+	background-color: #003057;
+}
+.intro-cmc-1{
+	height: 390px;
+	background-color: #ffffff;
+	margin-right: 20px;
+	margin-left: 140px !important;
+}
+.intro-cmc-mob-1{
+	height: 315px;
+	background-color: #ffffff;
+}
+.intro-cmc-2{
+	height: 390px;
+	background-color: #ffffff;
+	margin-right: 20px;
+}
+.intro-cmc-mob-2{
+	height: 315px;
+	background-color: #ffffff;
+}
+.intro-cmc-3{
+	height: 390px;
+	background-color: #ffffff;
+}
+.margin-cmc-l{
+	margin-right: 6px;
+	background-repeat: no-repeat;
+}
+.a-contact{
+	color: #ffffff !important;
+}
+.na-a-hover:hover{
+	background-color: #ffffff !important;
+}
+.margin-cmc{
+	background-repeat: no-repeat;
+	    background-size: 94%;
+    margin-bottom: -12px;
+}
+html{
+	font-family: 'Open Sans', sans-serif !important;
+}
+.flag{
+    background-image: url("../img/flag.jpg");
+    height: 19px;
+    width: 50px;
+    max-width: 57%;
+    margin-top: 23px;
+    margin-left: 0px;
+    background-size: contain;
+}
+.cmc-hover:hover{
+	background-color: transparent !important;
+}
+.flag-m{
+    background-image: url("../img/flag.jpg");
+    height: 13px;
+    width: 50px;
+    max-width: 40%;
+    margin-top: 23px;
+    margin-left: 0px;
+    background-size: contain;
+}
